@@ -4,3 +4,14 @@
 {"uuid":"adSBq97hhhpFNUna","deleted":true}
 {"uuid":"adSBq97hhhpFNUnb","deleted":true}
 {"uuid":"adSBq97hhhpFNUnc","deleted":true}
+{"name":"Card 1.pdf","date":"2020-10-19T00:43:18.494Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%201.pdf","type":"application/pdf","size":1131235,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%201.pdf","thumbnailWidth":210,"thumbnailHeight":210,"uuid":"NJFs8IGuzyZYmIvR"}
+{"uuid":"NJFs8IGuzyZYmIvR","deleted":true}
+{"name":"Card 1.jpg","date":"2020-10-19T00:44:54.723Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%201.jpg","type":"image/jpeg","size":768671,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%201.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"BEq6hEPl8iheyLXA"}
+{"name":"Card 2.jpg","date":"2020-10-19T00:45:28.272Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%202.jpg","type":"image/jpeg","size":524073,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%202.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"ttUVVTElyomTtoEh"}
+{"name":"Card 3.jpg","date":"2020-10-19T00:46:03.855Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%203.jpg","type":"image/jpeg","size":644369,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%203.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"Gy8gK9wSriTe1DD0"}
+{"uuid":"BEq6hEPl8iheyLXA","deleted":true}
+{"uuid":"Gy8gK9wSriTe1DD0","deleted":true}
+{"uuid":"ttUVVTElyomTtoEh","deleted":true}
+{"name":"Card One.jpg","date":"2020-10-19T00:52:29.832Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%20One.jpg","type":"image/jpeg","size":768671,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%20One.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"nmniJjoqoLRwJjKx"}
+{"name":"Card Two.jpg","date":"2020-10-19T00:52:33.855Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%20Two.jpg","type":"image/jpeg","size":524073,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%20Two.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"tTc6a9oRoDvAE6Li"}
+{"name":"Card Three.jpg","date":"2020-10-19T00:52:35.973Z","url":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2FCard%20Three.jpg","type":"image/jpeg","size":644369,"imageWidth":1848,"imageHeight":1246,"thumbnail":"https://cdn.glitch.com/a90fa73f-cda0-467b-8b6b-14e862d382eb%2Fthumbnails%2FCard%20Three.jpg","thumbnailWidth":330,"thumbnailHeight":223,"uuid":"WhF36ZCwy4wdpoqk"}
