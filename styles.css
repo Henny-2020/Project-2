@@ -52,6 +52,15 @@ img {
   bottom: 160px;
   width: 100%;
 }
-
+ .type {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
 
 
