@@ -41,6 +41,14 @@ img {
 }
 
 .type {
-position: absolute;  
-}
+  color: white;
+  font-family: "Helvetica Neau", "Light";
+  font-leading: 
+  font-size: 20px;
+  margin: 0;
+  padding-left: 0;
+  position: absolute;
+  bottom: 130px;
 
+  width: 100%;
+}
