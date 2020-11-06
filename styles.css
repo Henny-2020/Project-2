@@ -1,3 +1,4 @@
+
 img {
   max-width: 100%;
 }
@@ -62,7 +63,7 @@ img {
   margin: 0;
   padding-left: 0;
   position: absolute;
-  bottom: 165px;
+  bottom: 175px;
    right: 585px;
   text-align: right;
   width: 100%;
@@ -70,4 +71,19 @@ img {
 .info li {
   display: block;
 }
+
+.rating {
+  margin: 0;
+  padding-left: 0;
+  position: absolute;
+  left: 525px;
+  bottom: 145px;
+  width: 100%;
+}
+
+.rating img {
+  height: auto;
+  width: 50px;
+}
+
 
