@@ -52,15 +52,21 @@ img {
   bottom: 160px;
   width: 100%;
 }
- .type {
-  display: none;
+
+ .info {
+   color: black;
+  font-family: "Helvetica Neau", "Light";
+  line-height: 5px;
+  font-size: 20.5px;
   list-style: none;
   margin: 0;
   padding-left: 0;
   position: absolute;
   bottom: 10px;
-  text-align: center;
+  text-align: right;
   width: 100%;
 }
-
+.info li {
+  display: block;
+}
 
