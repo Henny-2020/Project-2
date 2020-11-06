@@ -34,3 +34,13 @@ img {
 .card:hover .action-list {
   display: block;
 }
+
+.card2 {
+  position: relative;
+  width: 580px;
+}
+
+.type {
+position: absolute;  
+}
+
