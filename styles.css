@@ -43,12 +43,15 @@ img {
 .type {
   color: white;
   font-family: "Helvetica Neau", "Light";
-  font-leading: 
-  font-size: 20px;
+  line-height: 5px;
+  font-size: 20.5px;
   margin: 0;
   padding-left: 0;
   position: absolute;
-  bottom: 130px;
-
+  left: 20px;
+  bottom: 160px;
   width: 100%;
 }
+
+
+
