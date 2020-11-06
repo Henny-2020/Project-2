@@ -88,7 +88,3 @@ img {
 .card2:hover img {
   opacity: 0.8;
 }
-
-.card2:hover .info .type .rating {
-  display: block;
-}
