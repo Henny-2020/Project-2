@@ -43,6 +43,7 @@
 
 .content {
   color: white;
+  display: none;
   font-family: sans-serif;
   padding: 24px;
   position: absolute;
@@ -64,7 +65,17 @@
 
 .rating {
   height: auto;
+  position: relative;
+  left:14px;
   width: 50px;
+}
+
+.card2:hover img {
+  opacity: 0.8;
+}
+
+.card2:hover .content {
+  display: block;
 }
 
 /* .type {
