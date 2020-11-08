@@ -13,9 +13,9 @@
   margin: 0;
   padding-left: 0;
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   text-align: center;
-  letter-spacing: 50px;
+  letter-spacing: 60px;
   width: 100%;
 }
 
@@ -62,7 +62,7 @@
   padding-left: 0;
   text-align: right;
   position: relative;
-  bottom: 
+  top: 20px;
 }
 
 
