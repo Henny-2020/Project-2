@@ -1,9 +1,13 @@
- img {
+
+img {
   max-width: 100%;
 }
 
 .card {
   position: relative;
+  margin-right: auto;
+margin-left: auto;
+  top: 200px;
   width: 580px;
 }
 
@@ -75,3 +79,5 @@
 .card.is-displaying-content .action-list {
   display: none;
 }
+
+background-color: grey;
