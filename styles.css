@@ -67,3 +67,11 @@
 .card:hover .action-list {
   display: block;
 } 
+
+.card.is-displaying-content .content{
+  display:block;
+}
+
+.card.is-displaying-content .action-list {
+  display: none;
+}
